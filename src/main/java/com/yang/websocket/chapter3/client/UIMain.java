@@ -1,4 +1,4 @@
-package com.yang.websocket.chatpter3.client;
+package com.yang.websocket.chapter3.client;
 
 
 public class UIMain {

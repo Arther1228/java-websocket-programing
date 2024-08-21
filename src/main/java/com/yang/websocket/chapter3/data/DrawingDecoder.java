@@ -1,5 +1,5 @@
 
-package com.yang.websocket.chatpter3.data;
+package com.yang.websocket.chapter3.data;
 
 import java.awt.Color;
 import java.awt.Point;

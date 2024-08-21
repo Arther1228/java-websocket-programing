@@ -1,8 +1,8 @@
 
-package com.yang.websocket.chatpter3.client;
+package com.yang.websocket.chapter3.client;
 
-import com.yang.websocket.chatpter3.data.DrawingObject;
-import com.yang.websocket.chatpter3.data.Shape;
+import com.yang.websocket.chapter3.data.DrawingObject;
+import com.yang.websocket.chapter3.data.Shape;
 
 import java.awt.*;
 import java.awt.event.*;

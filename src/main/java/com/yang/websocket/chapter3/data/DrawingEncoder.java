@@ -1,4 +1,4 @@
-package com.yang.websocket.chatpter3.data;
+package com.yang.websocket.chapter3.data;
 
 import javax.websocket.EncodeException;
 import javax.websocket.Encoder;

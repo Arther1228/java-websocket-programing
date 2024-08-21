@@ -1,8 +1,8 @@
-package com.yang.websocket.chatpter3.server;
+package com.yang.websocket.chapter3.server;
 
-import com.yang.websocket.chatpter3.data.DrawingAsIterator;
-import com.yang.websocket.chatpter3.data.DrawingFromReader;
-import com.yang.websocket.chatpter3.data.DrawingObject;
+import com.yang.websocket.chapter3.data.DrawingAsIterator;
+import com.yang.websocket.chapter3.data.DrawingFromReader;
+import com.yang.websocket.chapter3.data.DrawingObject;
 
 import java.awt.Color;
 import java.io.IOException;

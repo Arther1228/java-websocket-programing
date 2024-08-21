@@ -1,4 +1,4 @@
-package com.yang.websocket.chatpter3.data;
+package com.yang.websocket.chapter3.data;
 
 public enum Shape {
     CIRCLE,
