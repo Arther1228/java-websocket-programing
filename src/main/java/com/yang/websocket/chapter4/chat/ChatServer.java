@@ -7,11 +7,11 @@ import java.util.*;
 import javax.websocket.*;
 import javax.websocket.server.*;
 
-@ServerEndpoint(value = "/chat-server",
+/*@ServerEndpoint(value = "/chat-server",
         subprotocols = {"chat"},
         decoders = {ChatDecoder.class},
         encoders = {ChatEncoder.class},
-        configurator = ChatServerConfigurator.class)
+        configurator = ChatServerConfigurator.class)*/
 public class ChatServer {
     private static String USERNAME_KEY = "username";
     private static String USERNAMES_KEY = "usernames";
